@@ -2,9 +2,9 @@
 ```
 npm install
 ```
-### Compiles and hot-reloads for development
+### Run server 
 ```
 nodemon server/server.js
 ```
-<img src="https://github.com/gooseisnotabird/e-shop/blob/main/public/pcs/eshop-screenshot.jpg" alt="picture">
+<img src="https://github.com/gooseisnotabird/e-shop/blob/main/public/pcs/e-shop.jpg" alt="picture">
 
