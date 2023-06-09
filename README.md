@@ -1,4 +1,4 @@
-## Project setup
+### Project setup
 ```
 npm install
 ```
@@ -6,3 +6,5 @@ npm install
 ```
 nodemon server/server.js
 ```
+<img src="https://github.com/gooseisnotabird/e-shop/blob/main/public/pcs/eshop-screenshot.jpg" alt="picture">
+
